@@ -1905,6 +1905,17 @@ ret@~0.1.10:
   resolved "https://registry.yarnpkg.com/ret/-/ret-0.1.15.tgz#b8a4825d5bdb1fc3f6f53c2bc33f81388681c7bc"
   integrity sha512-TTlYpa+OL+vMMNG24xSlQGEJ3B/RzEfUlLct7b5G/ytav+wPrplCpVMFuwzXbkecJrb6IYo1iFb0S9v37754mg==
 
+revolut-nonofficial-api@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/revolut-nonofficial-api/-/revolut-nonofficial-api-1.0.0.tgz#c3f687feb2872b0ff458963ba9b1b26ab2d55c25"
+  integrity sha512-UmYsHDdxGvxCiVHzzkW6mqa3eHlS8qSA7hxLfUn9CbzrIogHdK94vqsaly06L6Kuo6n7M1qvWdvCOAKJRfNrHg==
+  dependencies:
+    "@babel/cli" "^7.6.2"
+    "@babel/core" "^7.6.2"
+    "@babel/plugin-transform-runtime" "^7.6.2"
+    "@babel/preset-env" "^7.6.2"
+    request-promise "^4.2.4"
+
 rimraf@^2.6.1:
   version "2.7.1"
   resolved "https://registry.yarnpkg.com/rimraf/-/rimraf-2.7.1.tgz#35797f13a7fdadc566142c29d4f07ccad483e3ec"
