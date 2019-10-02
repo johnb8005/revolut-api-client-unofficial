@@ -9,7 +9,7 @@ This is the javascript equivalent of https://github.com/tducret/revolut-python
 
 ## Usage
 
-`npm i revolut-nonofficial-api`
+`yarn add revolut-nonofficial-api`
 or
 `npm i revolut-nonofficial-api`
 
