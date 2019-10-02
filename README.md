@@ -7,6 +7,12 @@ This is the javascript equivalent of https://github.com/tducret/revolut-python
 
 *NOTE: I do not take any responsibility associated with the code released here*
 
+## Usage
+
+`npm i revolut-nonofficial-api`
+or
+`npm i revolut-nonofficial-api`
+
 ## Cmds
 
 * `yarn install`: install dependencies
