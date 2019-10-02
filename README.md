@@ -5,7 +5,9 @@
 
 This is the javascript equivalent of https://github.com/tducret/revolut-python
 
-*NOTE: I do not take any responsibility associated with the code released here*
+This is an unofficial API client. It is recommended to use the official Open Banking API: https://revolut-engineering.github.io 
+
+*NOTE: I do not take ANY responsibility associated with the code released here*
 
 ## Usage
 
